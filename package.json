@@ -1,6 +1,6 @@
 {
-  "name": "scratch-render",
-  "version": "0.1.0",
+  "name": "@wdr-data/scratch-render",
+  "version": "0.1.0-prerelease.20180918201144-fixed-1",
   "description": "WebGL Renderer for Scratch 3.0",
   "author": "Massachusetts Institute of Technology",
   "license": "BSD-3-Clause",
